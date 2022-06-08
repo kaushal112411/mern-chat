@@ -1,1 +1,1 @@
-# mern-chat
+# mern-chat app using socket io
